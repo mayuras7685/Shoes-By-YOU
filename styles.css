@@ -1,0 +1,32 @@
+body {
+  height: 120vh;
+}
+
+.collapse {
+  margin-left: 27%;
+}
+
+.navbar {
+  font-size: 18px;
+}
+
+input[type="search"] {
+  border-radius: 20px;
+}
+
+h4 {
+  margin: 10px;
+}
+
+.slogn {
+  display: inline-block;
+}
+
+.s5 {
+  margin-left: 64.5%;
+  margin-right: 5px;
+}
+
+.s6 {
+  margin-left: 15px;
+}
